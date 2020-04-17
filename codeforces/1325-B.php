@@ -1,5 +1,7 @@
 <?php
 
+// https://codeforces.com/contest/1325/problem/B
+
 $handle = fopen('php://stdin', 'r');
 
 $numberOfTestCases = fgets($handle);
